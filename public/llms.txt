@@ -1,49 +1,35 @@
-# Carmi & Cohen — Generative Engine Optimization Map
-
-> Carmi & Cohen is a professional firm specializing in guiding and accompanying residents through urban renewal processes (such as TAMA 38 and Pinui-Binui projects in Israel). The firm positions itself as a trusted advocate for residents, helping them navigate complex legal, financial, and logistical aspects of urban renewal. The brand likely conveys professionalism, reliability, and a resident-first approach.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://carmi-cohen-0f1bca73.zappy5.app
+https://example.com
 Carmi &amp; Cohen is a professional firm specializing in guiding and accompanying residents through urban renewal processes (such as TAMA 38 and Pinui-Binui project
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://carmi-cohen-0f1bca73.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://carmi-cohen-0f1bca73.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://carmi-cohen-0f1bca73.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Carmi & Cohen
-Carmi & Cohen is a professional firm specializing in guiding and accompanying residents through urban renewal processes (such as TAMA 38 and Pinui-Binui projects in Israel). The firm positions itself as a trusted advocate for residents, helping them navigate complex legal, financial, and logistical aspects of urban renewal. The brand likely conveys professionalism, reliability, and a resident-first approach.
-
-## Target Audience
-- דיירים בפרויקטים של התחדשות עירונית
-- דיירי התחדשות עירונית
-- בעלי נכסים בתהליך התחדשות
-- מנהיגי קהילה
-- חברות ארגון וליווי דיירים בפרוטיק פינוי בינוי
-
-## Industry
-התחדשות עירונית / נדל"ן
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://carmi-cohen-0f1bca73.zappy5.app/sitemap.xml
-- **Robots.txt**: https://carmi-cohen-0f1bca73.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
