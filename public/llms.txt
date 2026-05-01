@@ -1,0 +1,49 @@
+# Carmi & Cohen — Generative Engine Optimization Map
+
+> Carmi & Cohen is a professional firm specializing in guiding and accompanying residents through urban renewal processes (such as TAMA 38 and Pinui-Binui projects in Israel). The firm positions itself as a trusted advocate for residents, helping them navigate complex legal, financial, and logistical aspects of urban renewal. The brand likely conveys professionalism, reliability, and a resident-first approach.
+
+---
+
+## Pages
+
+### בית
+https://carmi-cohen-0f1bca73.zappy5.app
+Carmi &amp; Cohen is a professional firm specializing in guiding and accompanying residents through urban renewal processes (such as TAMA 38 and Pinui-Binui project
+
+## Legal & Policy
+
+### Privacy Policy
+https://carmi-cohen-0f1bca73.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://carmi-cohen-0f1bca73.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://carmi-cohen-0f1bca73.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Carmi & Cohen
+Carmi & Cohen is a professional firm specializing in guiding and accompanying residents through urban renewal processes (such as TAMA 38 and Pinui-Binui projects in Israel). The firm positions itself as a trusted advocate for residents, helping them navigate complex legal, financial, and logistical aspects of urban renewal. The brand likely conveys professionalism, reliability, and a resident-first approach.
+
+## Target Audience
+- דיירים בפרויקטים של התחדשות עירונית
+- דיירי התחדשות עירונית
+- בעלי נכסים בתהליך התחדשות
+- מנהיגי קהילה
+- חברות ארגון וליווי דיירים בפרוטיק פינוי בינוי
+
+## Industry
+התחדשות עירונית / נדל"ן
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://carmi-cohen-0f1bca73.zappy5.app/sitemap.xml
+- **Robots.txt**: https://carmi-cohen-0f1bca73.zappy5.app/robots.txt
